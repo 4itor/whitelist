@@ -1,1 +1,4 @@
-||*.tailscale.com^
+@@||*.tailscale.com^
+@@||*.unraid.com^
+@@||*.plex.com^
+
