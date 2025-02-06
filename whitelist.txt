@@ -1,1 +1,1 @@
-#@@|*.tailscale.com^$important
+||*.tailscale.com^
