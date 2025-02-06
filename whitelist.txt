@@ -1,4 +1,4 @@
-@@||*.tailscale.com^
-@@||*.myunraid.net^
-@@||*.plex.tv^
+@@||*.tailscale.com^$important
+@@||*.myunraid.net^$important
+@@||*.plex.tv^$important
 
